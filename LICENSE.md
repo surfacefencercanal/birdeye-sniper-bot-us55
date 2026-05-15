@@ -1,4 +1,4 @@
-# 
+# custom birdeye sniper bot | liquidity-pool-analysis + new-token-detection is the best birdeye sniper bot, featuring liquidity-pool-analysis and new-token-detection. Fast, smart,
 
 
 
